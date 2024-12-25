@@ -1,4 +1,4 @@
-#Simple Editor
+# Simple Editor
 
 ## Overview
 The simple editor is a simple app where the user can save entered value in the local storage and after reloading load the data from the local storage as needed
